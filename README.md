@@ -1,3 +1,2 @@
 in progress...   
-* my [gems](https://rubygems.org/profiles/patrickg)
-* personal [blog](https://patrickgramatowski.github.io/blog/)
+* my [gem(s)](https://rubygems.org/profiles/patrickg)
